@@ -1,0 +1,44 @@
+------------------------------------------------------------------------
+r348 | zeksie | 2009-12-09 11:20:33 +0000 (Wed, 09 Dec 2009) | 1 line
+Changed paths:
+   A /tags/3.0.7 (3.3 Release) (from /trunk:347)
+
+Tagging as 3.0.7 (3.3 Release)
+------------------------------------------------------------------------
+r347 | Zeksie | 2009-12-09 10:59:54 +0000 (Wed, 09 Dec 2009) | 1 line
+Changed paths:
+   M /trunk/XPerl.toc
+   M /trunk/XPerl_ArcaneBar/XPerl_ArcaneBar.toc
+   M /trunk/XPerl_CustomHighlight/XPerl_CustomHighlight.toc
+   M /trunk/XPerl_Highlight.lua
+   M /trunk/XPerl_Options/XPerl_FrameOptions.lua
+   M /trunk/XPerl_Options/XPerl_FrameOptions.xml
+   M /trunk/XPerl_Options/XPerl_Options.toc
+   M /trunk/XPerl_Party/XPerl_Party.lua
+   M /trunk/XPerl_Party/XPerl_Party.toc
+   M /trunk/XPerl_PartyPet/XPerl_PartyPet.toc
+   M /trunk/XPerl_Player/XPerl_Player.toc
+   M /trunk/XPerl_PlayerBuffs/XPerl_PlayerBuffs.toc
+   M /trunk/XPerl_PlayerPet/XPerl_PlayerPet.toc
+   M /trunk/XPerl_RaidAdmin/XPerl_RaidAdmin.lua
+   M /trunk/XPerl_RaidAdmin/XPerl_RaidAdmin.toc
+   M /trunk/XPerl_RaidFrames/XPerl_RaidFrames.toc
+   M /trunk/XPerl_RaidHelper/XPerl_Config.lua
+   M /trunk/XPerl_RaidHelper/XPerl_RaidHelper.lua
+   M /trunk/XPerl_RaidHelper/XPerl_RaidHelper.toc
+   M /trunk/XPerl_RaidMonitor/XPerl_RaidMonitor.toc
+   M /trunk/XPerl_RaidPets/XPerl_RaidPets.toc
+   M /trunk/XPerl_Target/XPerl_Target.toc
+   M /trunk/XPerl_TargetTarget/XPerl_TargetTarget.toc
+   M /trunk/XPerl_Tutorial/XPerl_Tutorial.toc
+   M /trunk/changelog.txt
+   M /trunk/localization.lua
+
+TOC 30300 and Version bump to 3.0.7
+------------------------------------------------------------------------
+r346 | Zeksie | 2009-10-19 16:07:10 +0000 (Mon, 19 Oct 2009) | 1 line
+Changed paths:
+   M /trunk/XPerl.lua
+
+Nudge up debuffs if buffs are disabled (vise versa when debuffs come first).
+------------------------------------------------------------------------

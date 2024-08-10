@@ -1,0 +1,40 @@
+﻿## Interface: 30300
+## Title: Elephant
+## Title-zhCN: Elephant 聊天记录器
+## Notes: A friendly companion that remembers the chat.
+## Notes-zhCN: 聊天记录小助手
+## Notes-frFR: Un compagnon amical qui se souvient de vos discussions.
+## Notes-deDE: A friendly companion that remembers the chat.
+## Notes-zhTW: 聊天記錄小助手。
+## Notes-ruRU: Дружественный компаньон который запоминает чат.
+## Author: pb_ee1
+## Version: 2.9.6-beta
+## SavedVariables: ElephantDB
+## SavedVariablesPerCharacter: ElephantDBPerChar
+## OptionalDeps: Ace2, DewdropLib, FuBarPlugin-2.0, TabletLib, Prat
+## X-Category: Chat/Communication
+## X-Credits: harl, Antikleia, <CWDG>月色狼影, Cossy
+## X-Embeds: Ace2, DewdropLib, FuBarPlugin-2.0, TabletLib
+## X-eMail: emmanuel.cron@gmail.com
+## X-Curse-Packaged-Version: 2.9.6-beta
+## X-Curse-Project-Name: Elephant
+## X-Curse-Project-ID: elephant
+## X-Curse-Repository-ID: wow/elephant/mainline
+
+embeds.xml
+
+Locale-enUS.lua
+Locale-frFR.lua
+Locale-deDE.lua
+Locale-zhCN.lua
+Locale-zhTW.lua
+Locale-ruRU.lua
+Core.lua
+Core-Structure.lua
+Core-Initialize.lua
+Core-Message.lua
+Core-Interface.lua
+FuBar-Dropdown.lua
+FuBar-Tablet.lua
+Event-Handle.lua
+Elephant.xml

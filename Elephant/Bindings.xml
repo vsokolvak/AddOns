@@ -1,0 +1,5 @@
+<Bindings>
+	<Binding name="TOGGLE" header="ELEPHANT">
+		Elephant:Toggle()
+	</Binding>
+</Bindings>

@@ -1,0 +1,17 @@
+------------------------------------------------------------------------
+r123 | pb_ee1 | 2010-09-01 21:11:01 +0000 (Wed, 01 Sep 2010) | 1 line
+Changed paths:
+   A /tags/2.9.6-beta (from /trunk:122)
+
+Tagging as 2.9.6-beta
+------------------------------------------------------------------------
+r122 | pb_ee1 | 2010-09-01 21:04:21 +0000 (Wed, 01 Sep 2010) | 3 lines
+Changed paths:
+   M /trunk/Core-Message.lua
+   M /trunk/Core.lua
+   M /trunk/Event-Handle.lua
+
+- some brackets cleanup
+- this should fix '%s' in achievements
+- real id whispers are now supported
+------------------------------------------------------------------------
